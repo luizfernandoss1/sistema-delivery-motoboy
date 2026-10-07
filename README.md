@@ -23,7 +23,7 @@ Para rodar este projeto na sua máquina local, você precisará ter o Python ins
 
 1. Clone este repositório para a sua máquina:
    ```bash
-   git clone [https://github.com/luizfernandoss1/sistema-delivery-motoboy/blob/main/Sistema_delivery.py]
+   git clone [https://github.com]
    ```
 
 2. Acesse a pasta do projeto:
